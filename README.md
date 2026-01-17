@@ -27,8 +27,3 @@ The included `.ipynb` file covers the following as per submission requirements:
 1.  **Problem Definition:** Tackling the digital language divide and modern dialect shifts.
 2.  **Data Preparation:** Tokenization, UTF-8 normalization, and custom dictionary creation.
 3.  **Real-world Motivation:** Enhancing cross-cultural communication and accessibility.
-
-## Installation & Usage
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/your-username/Cyber-Translator-AI.git](https://github.com/your-username/Cyber-Translator-AI.git)
