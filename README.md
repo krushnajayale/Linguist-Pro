@@ -12,7 +12,7 @@ This project leverages Meta's **NLLB-200 (No Language Left Behind)** model to pr
 * **Morse Code Utility:** Instant conversion for low-bandwidth communication or cryptographic-themed projects.
 
 ## 📂 Repository Structure
-* `Cyber_Translator_Main.ipynb`: **The Source of Truth.** Contains the full problem definition, data preprocessing, and model implementation.
+* `GenZ-Translator.ipynb`: **The Source of Truth.** Contains the full problem definition, data preprocessing, and model implementation.
 * `app.py`: The Streamlit deployment script.
 * `requirements.txt`: Necessary Python libraries (Transformers, Torch, Streamlit).
 * `slang_dictionary.json`: Custom dataset for slang-to-standard mapping.
